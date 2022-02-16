@@ -16,10 +16,9 @@
       "userId": null,
       "id": 3
     },
-
     {
       "title": "Unexpected Behavior",
-      "description": "Didn't Expect That",
+      "description": "This change was made by a PATCH request",
       "userId": "105548860949576162273",
       "id": 5
     },
@@ -28,6 +27,11 @@
       "description": "You should not this on the form page!!",
       "userId": "105548860949576162273",
       "id": 6
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 7
     }
   ]
 }
